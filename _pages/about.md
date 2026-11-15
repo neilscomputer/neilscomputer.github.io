@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /about
-subtitle: Software engineer. Curious builder.
+subtitle: Software engineer and independent researcher.
 
 profile:
   align: right
@@ -18,4 +18,4 @@ latest_posts:
   enabled: false
 ---
 
-Hi, I'm Neil Jones. I build things and write about them here.
+I am Neil Jones; I work on projects and write about them here.
