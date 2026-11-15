@@ -1,7 +1,7 @@
 ---
 layout: page
-title: VCD report
-description: What tricks can help an AI vision model to stop "seeing things"?
+title: Visual Contrastive Decoding 
+description: Helping an AI vision model to stop seeing things that aren't there.
 importance: 1
 ---
 

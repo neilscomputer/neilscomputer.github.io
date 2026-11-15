@@ -6,7 +6,8 @@ subtitle: Software engineer and independent researcher.
 
 profile:
   align: right
-  image_circular: false
+  image: prof_pic.jpg
+  image_circular: true
 
 selected_papers: false
 social: true
