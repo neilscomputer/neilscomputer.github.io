@@ -86,7 +86,7 @@ git commit -m "config: disable search, update scholar identity, blog name, remov
 
 ```yaml
 cv_pdf:
-email: ncjonez@gmail.com
+linkedin_username: neil-jones-6021484
 rss_icon: true
 scholar_userid: FQO07SYAAAAJ
 ```
@@ -122,8 +122,6 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false
-  more_info: >
-    <p>ncjonez@gmail.com</p>
 
 selected_papers: false
 social: true
@@ -372,7 +370,6 @@ git commit -m "bibliography: clear example Einstein papers"
 cv:
   name: Neil Jones
   label: Software Engineer
-  email: ncjonez@gmail.com
   location: ""
   image: ""
   summary: Software engineer and builder. Interested in verifiable systems and interesting problems.
