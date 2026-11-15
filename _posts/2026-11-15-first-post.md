@@ -8,12 +8,8 @@ categories: []
 ---
 
 Well-written and thoughtful blog posts are hard. And I don't have one yet, but I need a single one
-for the page to even render, so I'll just jot down some observations here.
+for the page to even render.
 
-Not having institutional access to journals can be a huge pain. I'm going to see if I can work my way around that.
-
-Benchmarking and evaluation tools, especially in AI, are underappreciated and underdeveloped.
-
-I don't think many people understand what "research support" is.
+This site is so that I can organize projects and results into something coherent.
 
 
