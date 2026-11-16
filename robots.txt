@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://neilscomputer.github.io/sitemap.xml
+Sitemap: https://ruhroh.io/sitemap.xml
